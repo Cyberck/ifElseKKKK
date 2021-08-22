@@ -1,5 +1,7 @@
 
 
+
+
 var age = +prompt('vvedite svoy vozrast');
 
 if(age <= 18) {
