@@ -20,14 +20,17 @@
 let a = +prompt('Vvedite svoy vozrast');
 if(a <= 18) {
     alert('vam nujno uchitsya');
-}else if(a <= 50) {
-    alert('vam skoro rabotat');
-}else if(a <= 59) {
+    let a = +prompt('Vvedite svoy vozrast')
+}if(a <= 50) {
+    alert('vam nujno rabotat');
+    let a = +prompt('Vvedite svoy vozrast')
+}if(a <= 59) {
     alert('vam skoro na pensiyu');
-}else if(a <= 150) { 
-    alert('vi pensioner');    
-}else {
-    alert('Chto-to poshlo ne tak')}
+    let a = +prompt('Vvedite svoy vozrast')
+}if(a <= 150) { 
+    alert('vi pensioner');
+    let a = +prompt('Vvedite svoy vozrast')    
+}if (alert('Chto-to poshlo ne tak'));
 
 
 
