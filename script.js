@@ -14,7 +14,7 @@
 //      console.log('vi holodes');
 // }
 
-
+// JS urok 2 domashka
 
 
 let a = +prompt('Vvedite svoy vozrast');
